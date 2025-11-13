@@ -1,6 +1,6 @@
 # Layoffs Data Cleaning Project (SQL)
 
-This project focuses on cleaning and standardizing a dataset of global tech layoffs using PostgreSQL. The goal was to take a raw CSV extract, identify inconsistencies, remove duplicates, standardize formats, handle missing values, and prepare the dataset for downstream analysis.
+This project focuses on cleaning and standardizing a dataset of global tech layoffs using PostgreSQL. The goal was to take a raw CSV extract, identify inconsistencies, remove duplicates, standardize formats, handle missing values, and prepare the dataset for downstream analysis. I wanted to Include a brief, simple project on my GitHub focusing just on a crucial aspect of data analysis and engineering, being data cleaning. Other projects of mine also have some more advanced cleaning.
 
 The full cleaning process was done exclusively with SQL, following a typical data-cleaning workflow: staging → deduplication → standardization → type fixes → NULL handling → validation.
 
